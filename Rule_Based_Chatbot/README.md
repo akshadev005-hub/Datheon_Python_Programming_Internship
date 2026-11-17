@@ -1,4 +1,4 @@
-# Task 3 - Rule-Based Chatbot
+# Rule-Based Chatbot
 
 ## Description
 
