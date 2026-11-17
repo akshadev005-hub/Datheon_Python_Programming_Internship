@@ -1,4 +1,4 @@
-# Task 1 - Hangman Word Guessing Game
+# Hangman Word Guessing Game
 
 ## Description
 A terminal-based Hangman game developed using Python.
